@@ -53,13 +53,22 @@ The project focused exclusively on **image editing with Adobe Photoshop** and ha
 
 ## 🖼️ Images of Project
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5c66d5a6-e5d2-46b1-b2a8-1971acf3b4ab" alt="Cartaz-FINAL" width="500"/>
-  <img src="https://github.com/user-attachments/assets/6b0a82cb-4c32-4f4c-a48f-7b1f23b2c669" alt="MUPI-FINAL" width="500"/>
-  <img src="https://github.com/user-attachments/assets/2e06aeaa-643d-4b53-a3bb-3c1e65a22465" alt="Poster-FINAL" width="500"/>
-  <img src="https://github.com/user-attachments/assets/d5c0f2eb-e1f8-48a4-9cc9-6a8632742032" alt="Paragem_de_Autocarro-FINAL" width="500"/>
-  <img src="https://github.com/user-attachments/assets/24c365b4-4d69-4399-aae7-8c946a14e4aa" alt="Outdoor-FINAL" width="500"/>
-</p>
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/5c66d5a6-e5d2-46b1-b2a8-1971acf3b4ab" alt="Cartaz-FINAL" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/6b0a82cb-4c32-4f4c-a48f-7b1f23b2c669" alt="MUPI-FINAL" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/2e06aeaa-643d-4b53-a3bb-3c1e65a22465" alt="Poster-FINAL" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/d5c0f2eb-e1f8-48a4-9cc9-6a8632742032" alt="Paragem_de_Autocarro-FINAL" width="400"/></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github.com/user-attachments/assets/24c365b4-4d69-4399-aae7-8c946a14e4aa" alt="Outdoor-FINAL" width="600"/>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
