@@ -1,7 +1,7 @@
 
 # 🎬 Monster X McLaren — Multimedia Content Production  
 
-This repository contains the development of an individual project and all exercices carried out within the course **Multimedia Content Production (2023/2024)** of **Computer Informatics (2nd year, UMAIA)**.  
+This repository contains the development of an individual project and all exercices carried out within the course **Multimedia Content Production (2023/2024)** of **Computer Informatics (1nd year, UMAIA)**.  
 
 The project focused exclusively on **image editing with Adobe Photoshop** and had as its final goal the **creation of a product**: a fictional collaboration between **Monster Energy** and **McLaren**, exploring graphic design and branding concepts.  
 
