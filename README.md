@@ -8,8 +8,7 @@ The project focused exclusively on **image editing with Adobe Photoshop** and ha
 ---
 
 ## 🚀 Project Structure  
-- 📂 [CLASSES](./CLASSES) → All Folder Classes Execises
-- 📂 [CLASSES](./CLASSES) → All class exercises and practice files  
+- 📂 [CLASSES](./CLASSES) → All Folder Classes Execises 
 - 📂 [EXAM MODELS](./EXAM%20MODELS) → Exam model exercises  
 - 📂 [MONSTER X MCLAREN](./MONSTER%20X%20MCLAREN) → Final Project  
   - 📂 [Discarded_Ideas](./MONSTER%20X%20MCLAREN/Discarded_Ideas) → Initial drafts and unused concepts  
