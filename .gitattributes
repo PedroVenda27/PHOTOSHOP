@@ -1,2 +1,9 @@
 *.psd filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
+
+# Count Photoshop files as "Photoshop" in language stats
+*.psd linguist-detectable=true
+*.psd linguist-language=Photoshop
+
+*.psb linguist-detectable=true
+*.psb linguist-language=Photoshop
